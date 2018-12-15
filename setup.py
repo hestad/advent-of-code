@@ -7,7 +7,7 @@ setuptools.setup(
     author_email="jahestad@gmail.com",
     description="Solutions to https://adventofcode.com",
     url="https://github.com/hestad/advent-of-code",
-    install_requires=['numpy>=1.15.4'],
+    install_requires=['numpy>=1.15.4','python-dateutil>=2.7.5'],
     python_requires='>=3.7',
     classifiers=(
         "Programming Language :: Python :: 3"
