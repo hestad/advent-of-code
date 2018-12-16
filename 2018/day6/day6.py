@@ -98,5 +98,5 @@ def part2():
     return regions
 
 
-#print(f"Day 6, part 1: {part1()}")
+print(f"Day 6, part 1: {part1()}")
 print(f"Day 6, part 1: {part2()}")
